@@ -1,0 +1,4 @@
+*.log
+*.exe
+.dart_tool
+paths.yml
